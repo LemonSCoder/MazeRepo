@@ -66,3 +66,6 @@ Cmd: compileSnippet
   error: 1 plat 14 at /Applications/Unity/Hub/Editor/2021.3.25f1/Unity.app/Contents/CGIncludes/UnityCG.cginc(516): pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
  ok=1 outsize=24544
 
+Unhandled exception: Protocol error - failed to read magic number (error -2147483644, transferred 0/4)
+
+Quitting shader compiler process
