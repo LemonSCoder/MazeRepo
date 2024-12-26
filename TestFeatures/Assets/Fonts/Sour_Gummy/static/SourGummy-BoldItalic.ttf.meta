@@ -1,0 +1,36 @@
+fileFormatVersion: 2
+guid: 0cb0981ddaf1d454cb74e8f23fc53520
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Sour Gummy
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 65341c69f114c4ccfbc0736fb44de187, type: 3}
+  - {fileID: 12800000, guid: f1f32807b005a4ce3bddc3fefc6fbc6c, type: 3}
+  - {fileID: 12800000, guid: 9522df06c84314519b0b2f6770491c26, type: 3}
+  - {fileID: 12800000, guid: c9653f4ce4f68490e805fe1c5de4ec13, type: 3}
+  - {fileID: 12800000, guid: 429e230fcb98544a1b6226ca9ebd0452, type: 3}
+  - {fileID: 12800000, guid: 4bf88ffbb73314d34b96b897407850da, type: 3}
+  - {fileID: 12800000, guid: a66d88376522f44ac8a41307043eee7b, type: 3}
+  - {fileID: 12800000, guid: 2840eb8e89ade4e00b9627dd433b58f9, type: 3}
+  - {fileID: 12800000, guid: 737bac2ea1a0d4abb8bfe98e5e332599, type: 3}
+  - {fileID: 12800000, guid: db661163bc2d9434fb42164fca865bb0, type: 3}
+  - {fileID: 12800000, guid: a11b2364795034ce5b93211d054abf2b, type: 3}
+  - {fileID: 12800000, guid: 74077813b3e7e4f95b77b5728bf9d9e8, type: 3}
+  - {fileID: 12800000, guid: e3bb5d6f4bb5d4e60af556be9d589c3f, type: 3}
+  - {fileID: 12800000, guid: 4369b1fb71ef041e595002a04a27aadb, type: 3}
+  - {fileID: 12800000, guid: 59f23870c4744432c845fddc8437d6e1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

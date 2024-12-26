@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: d8009a29b68a746769cf4740db003308
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Sour Gummy Expanded
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a752d2278337e479c934b57689526355, type: 3}
+  - {fileID: 12800000, guid: 23015e1e836b345e2a7010eb8ffce4fe, type: 3}
+  - {fileID: 12800000, guid: 45e41ea6d825d4753a6e15882faafa29, type: 3}
+  - {fileID: 12800000, guid: a86b25c407dba4554ba9d5b5b40622f3, type: 3}
+  - {fileID: 12800000, guid: 8373f9b600fcc4877b88934b9918cf24, type: 3}
+  - {fileID: 12800000, guid: 52bf9d0c7a25b4c2e963ef19108a6df0, type: 3}
+  - {fileID: 12800000, guid: b447607e3fa4944e692bf5c396bbd267, type: 3}
+  - {fileID: 12800000, guid: 657e61ded79424dd58ef624b33705180, type: 3}
+  - {fileID: 12800000, guid: 5106d1d7519344d5bb06e353d83d7cbe, type: 3}
+  - {fileID: 12800000, guid: f0eb1f67376b9489389c96b9ba9ddcff, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

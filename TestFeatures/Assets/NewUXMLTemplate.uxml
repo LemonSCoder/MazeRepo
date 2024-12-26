@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement />
+    <ui:SliderInt picking-mode="Ignore" label="Dimensions" value="42" high-value="16" low-value="3" page-size="0" name="DimensionSlider" style="background-color: rgb(255, 243, 172); font-size: 18px; color: rgb(255, 59, 211); -unity-font-style: bold; cursor: initial;" />
+    <ui:SliderInt picking-mode="Ignore" label="Collectible Number" value="42" high-value="5" name="CollectibleSlider" style="color: rgb(255, 59, 211); background-color: rgb(255, 243, 172); font-size: 18px; -unity-font-style: bold; cursor: initial;" />
+    <ui:Button text="GENERATE!" display-tooltip-when-elided="true" name="ButtonOne" style="background-color: rgb(255, 59, 211); -unity-font-style: bold; font-size: 24px; color: rgb(255, 243, 172); cursor: initial;" />
+</ui:UXML>

@@ -1,0 +1,4 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:Template name="NewUXMLTemplate" src="project://database/Assets/UI%20Toolkit/NewUXMLTemplate.uxml?fileID=9197481963319205126&amp;guid=cc22ecf649687491f9d63dde5f09568f&amp;type=3#NewUXMLTemplate" />
+    <ui:Instance template="NewUXMLTemplate" name="TestSheet" style="cursor: url(&apos;project://database/Assets/iceCreamScooper-removebg-preview.png?fileID=2800000&amp;guid=684ef224e98cc4a7eb7a4bca271fc42e&amp;type=3#iceCreamScooper-removebg-preview&apos;); justify-content: flex-end; -unity-font: url(&apos;project://database/Assets/Fonts/DynaPuff/DynaPuff-VariableFont_wdth,wght.ttf?fileID=12800000&amp;guid=de6937e65f71846c78a554eb8692c1fb&amp;type=3#DynaPuff-VariableFont_wdth,wght&apos;);" />
+</ui:UXML>
